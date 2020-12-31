@@ -1,0 +1,5 @@
+﻿  Client.cpp
+  main.cpp
+e:\2020-fall\computer networking\lab\lab7\client\client\main.cpp(84): warning C4101: “port”: 未引用的局部变量
+  正在生成代码...
+  Client.vcxproj -> E:\2020-fall\Computer Networking\Lab\Lab7\Client\Debug\Client.exe
